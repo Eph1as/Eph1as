@@ -32,7 +32,7 @@
 ## Contact 
 ---
 <br>
-<div class='container_gmail' style="margin-left: 250px">
+<div class='container_gmail' align='center'>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 <br>
 
@@ -55,7 +55,7 @@
 ---
 
 
-<div class="container_discord_banner" align:'center'>
+<div class="container_discord_banner" style="margin-left: 250px;">
     <a href='https://discord.gg/VAR8sutF'>
     <img src="https://discord.c99.nl/widget/theme-1/299575946862657538.png">
     </a>
