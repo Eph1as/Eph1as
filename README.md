@@ -55,11 +55,9 @@
 ---
 
 
-<div class="container_discord_banner" style="margin-left: 250px;">
-    <a href='https://discord.gg/VAR8sutF'>
+<p class="container_discord_banner " align='center'>
     <img src="https://discord.c99.nl/widget/theme-1/299575946862657538.png">
-    </a>
-</div>
+</p>
 
 
 
