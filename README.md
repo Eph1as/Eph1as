@@ -32,7 +32,7 @@
 ## Contact 
 ---
 <br>
-<div class='container_gmail' align='center'>
+<div class='container_gmail' style="margin-left: 250px">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 <br>
 
