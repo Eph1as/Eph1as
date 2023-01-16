@@ -54,11 +54,11 @@
 ## Send me a Direct Massage
 ---
 
- <center>
+<div class="container_discord_banner" align:'center'>
     <a href='https://discord.gg/VAR8sutF'>
-    <img src="https://discord.c99.nl/widget/theme-1/299575946862657538.png" align='center'>
+    <img src="https://discord.c99.nl/widget/theme-1/299575946862657538.png">
     </a>
-</center>
+</div>
 
 
 ## Vistors
