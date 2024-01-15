@@ -46,7 +46,7 @@
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 <br>
 
-<a href="https://discord.com/users/299575946862657538" > Ephias#4700 </a>
+<a href="https://discord.com/users/299575946862657538" > Ephias </a>
 </div>
 <br>
 
